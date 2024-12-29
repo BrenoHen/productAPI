@@ -11,7 +11,7 @@
 	</parent>
 
 	<groupId>io.github.BrenoHen</groupId>
-	<artifactId>produtosApi</artifactId>
+	<artifactId>productAPI</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>produtosApi</name>
 	<description>API de Produtos</description>
